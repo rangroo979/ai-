@@ -1,0 +1,7 @@
+{
+  "name": "AI 투자 분석",
+  "description": "Gemini AI 기반 국내외 종목 및 시장 데이터 분석·의사결정 지원 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
